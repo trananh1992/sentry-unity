@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Cocoa SDK from v9.26.0 to v9.29.1 ([#30](https://github.com/trananh1992/sentry-unity/pull/30))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#9291)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/9.26.0...9.29.1)
+
 ## 4.9.0
 
 ### Features
