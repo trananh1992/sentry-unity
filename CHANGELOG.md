@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump CLI from v3.6.2 to v3.8.2 ([#49](https://github.com/trananh1992/sentry-unity/pull/49))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#382)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/3.6.2...3.8.2)
+
 ## 4.9.0
 
 ### Features
