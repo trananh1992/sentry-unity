@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump .NET SDK from v6.8.0 to v6.13.0 ([#59](https://github.com/trananh1992/sentry-unity/pull/59))
+  - [changelog](https://github.com/getsentry/sentry-dotnet/blob/main/CHANGELOG.md#6130)
+  - [diff](https://github.com/getsentry/sentry-dotnet/compare/6.8.0...6.13.0)
+
 ## 4.9.0
 
 ### Features
